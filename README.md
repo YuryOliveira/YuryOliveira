@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FF4B4B&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+eu+sou+Yury;tenho+19+anos;+Curso+Ciêcias+da+Computação;seja+Bem-Vindo+ao+meu+perfil%3A)](https://git.io/typing-svg)
 
-- 💻 Atualmente faço estágio com front-end e mobile
+- 💻 Atualmente faço estágio no setor de cadastro fiscal da prefeitura de Santa Cruz das Palmeiras
+- 💻 Trabalhei como estagiario em programação Front-End em um projeto para a SectPira
 - 📖 Estudando mobile com Flutter e Front-end 
 - 📧 yury2116@Gmail.com
 
