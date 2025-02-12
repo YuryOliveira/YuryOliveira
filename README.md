@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4B4B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FF4B4B&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+eu+sou+Yury;tenho+19+anos;+Curso+Ciêcias+da+Computação;seja+Bem-Vindo+ao+meu+perfil%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FF4B4B&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+I+am+Yury;I'm+19+years+old;+Course+Computer+Sciences;Welcome+to+my+profile%3A)](https://git.io/typing-svg)
 
-- 💻 Atualmente faço estágio no setor de cadastro fiscal da prefeitura de Santa Cruz das Palmeiras
-- 💻 Trabalhei como estagiario em programação Front-End em um projeto para a SectPira
-- 📖 Estudando mobile com Flutter, Front-end, Python e C#
+- 💻  I am currently doing an internship in the tax registration sector of the city of Santa Cruz das Palmeiras
+- 💻 I worked as an intern in Front-End programming on a project for SecturPira
+- 📖  Studying mobile with Flutter, Front-end, Python and C#
 - 📧 yury2116@Gmail.com
 
  <div> 
