@@ -4,7 +4,7 @@
 
 - 💻 Atualmente faço estágio no setor de cadastro fiscal da prefeitura de Santa Cruz das Palmeiras
 - 💻 Trabalhei como estagiario em programação Front-End em um projeto para a SectPira
-- 📖 Estudando mobile com Flutter e Front-end 
+- 📖 Estudando mobile com Flutter, Front-end, Python e C#
 - 📧 yury2116@Gmail.com
 
  <div> 
